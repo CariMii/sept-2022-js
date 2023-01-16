@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dba9a0ec-9750-4c54-a0b5-f00b8bd5632c" name="Changes" comment="Js">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework2/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework4/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework5/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework6/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework8/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework9/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework9/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sept-2022-js.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GwVcqUjjGrTKUEA3ALZNH0db78" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JavaScript"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dba9a0ec-9750-4c54-a0b5-f00b8bd5632c" name="Changes" comment="" />
+      <created>1667299733650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667299733650</updated>
+      <workItem from="1667299737924" duration="6038000" />
+      <workItem from="1667894669665" duration="4355000" />
+      <workItem from="1668006799098" duration="17288000" />
+      <workItem from="1668447499306" duration="20291000" />
+      <workItem from="1669043768333" duration="7331000" />
+      <workItem from="1669127880992" duration="7869000" />
+      <workItem from="1669205325757" duration="11167000" />
+      <workItem from="1669498124625" duration="7689000" />
+      <workItem from="1670271539290" duration="7383000" />
+      <workItem from="1670850845693" duration="2339000" />
+      <workItem from="1670944937134" duration="5025000" />
+      <workItem from="1671216435353" duration="8359000" />
+      <workItem from="1672243442912" duration="1191000" />
+      <workItem from="1672350988431" duration="588000" />
+      <workItem from="1672589217478" duration="1552000" />
+      <workItem from="1672832160921" duration="26715000" />
+      <workItem from="1673606431796" duration="411000" />
+      <workItem from="1673606990284" duration="304000" />
+      <workItem from="1673607375865" duration="12656000" />
+      <workItem from="1673886990542" duration="1110000" />
+    </task>
+    <task id="LOCAL-00001" summary="Js">
+      <created>1667317122574</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667317122574</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Js" />
+    <option name="LAST_COMMIT_MESSAGE" value="Js" />
+  </component>
+</project>
